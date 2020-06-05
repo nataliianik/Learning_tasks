@@ -21,23 +21,7 @@ function lucusNumbers() {
 
 lucusNumbers()
 
-/*console.log(number3)
-var number4 = number2 + number3;
-console.log(number4)
-var number5 = number3 + number4;
-console.log(number5)
-var number6 = number4 + number5;
-console.log(number6)
-var number7 = number5 + number6;
-console.log(number7)
-var number8 = number6 + number7;
-console.log(number8)
-var number9 = number7 + number8;
-console.log(number9)
-var number10 = number8 + number9;
-console.log(number10)
 
-}*/
 
 
 
